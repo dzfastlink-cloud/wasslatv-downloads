@@ -1,15 +1,11 @@
 ﻿# Wassla TV Downloads
 
-This repository is the public download center for Wassla TV APK builds.
+Arabic download page for Wassla TV, hosted from this repository with GitHub Pages.
 
-## Latest release
+## Download
 
-Visit the GitHub Releases page to download the newest APK:
+- Android 3.1.0: [APK release](https://github.com/dzfastlink-cloud/wasslatv-downloads/releases/tag/v3.1.0)
+- Windows 1.1.1: [EXE release](https://github.com/dzfastlink-cloud/wasslatv-downloads/releases/tag/v1.1.1)
+- [All releases](https://github.com/dzfastlink-cloud/wasslatv-downloads/releases)
 
-- https://github.com/dzfastlink-cloud/wasslatv-downloads/releases
-
-## Notes
-
-- The app builds are published as GitHub Release assets.
-- Use the latest tag for the newest release.
-- Each release contains the signed APK for installation on supported Android devices.
+The landing page links directly to the published APK and Windows installer. Only use channel sources you are authorized to access.
